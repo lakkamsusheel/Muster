@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UIServices", "UIServices\UIServices.vbproj", "{A228D60E-3C06-4224-86AC-78E7C0887056}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MusterUpdater", "MusterUpdater\MusterUpdater.vbproj", "{1BCE1FCE-8CDC-406B-AD76-CABA2A53FAC1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMuster", "SetupMuster\SetupMuster.vdproj", "{06C490F4-3851-4A58-AD7A-C7751D439E40}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCE1FCE-8CDC-406B-AD76-CABA2A53FAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCE1FCE-8CDC-406B-AD76-CABA2A53FAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C490F4-3851-4A58-AD7A-C7751D439E40}.Debug|Any CPU.ActiveCfg = Debug
+		{06C490F4-3851-4A58-AD7A-C7751D439E40}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

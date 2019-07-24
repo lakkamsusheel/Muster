@@ -1,0 +1,1737 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{A228D60E-3C06-4224-86AC-78E7C0887056}"
+        SccProjectName = "SAK"
+        SccLocalPath = "SAK"
+        SccAuxPath = "SAK"
+        SccProvider = "SAK"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "MusterContainer\MusterShortTitle.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "MUSTER"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "MUSTER"
+                StartupObject = "MUSTER.BootStrap"
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "stdole"
+                    Guid = "{00020430-0000-0000-C000-000000000046}"
+                    VersionMajor = "2"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "primary"
+                />
+                <Reference
+                    Name = "MSMask"
+                    Guid = "{C932BA88-4374-101B-A56C-00AA003668DC}"
+                    VersionMajor = "1"
+                    VersionMinor = "1"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "AxMSMask"
+                    Guid = "{C932BA88-4374-101B-A56C-00AA003668DC}"
+                    VersionMajor = "1"
+                    VersionMinor = "1"
+                    Lcid = "0"
+                    WrapperTool = "aximp"
+                />
+                <Reference
+                    Name = "Word"
+                    Guid = "{00020905-0000-0000-C000-000000000046}"
+                    VersionMajor = "8"
+                    VersionMinor = "2"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "Microsoft.VisualBasic"
+                    AssemblyName = "Microsoft.VisualBasic"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\Microsoft.VisualBasic.dll"
+                />
+                <Reference
+                    Name = "System.Runtime.Serialization.Formatters.Soap"
+                    AssemblyName = "System.Runtime.Serialization.Formatters.Soap"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Runtime.Serialization.Formatters.Soap.dll"
+                />
+                <Reference
+                    Name = "Infragistics.Shared.v3.2"
+                    AssemblyName = "Infragistics.Shared.v3.2"
+                    HintPath = "..\..\Program Files\Infragistics\NetAdvantage 2004 Volume 2\Windows Forms\Bin\Infragistics.Shared.v3.2.dll"
+                    AssemblyFolderKey = "hklm\infragistics.winassemblies.20042"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "Infragistics.Win.Misc.v3.2"
+                    AssemblyName = "Infragistics.Win.Misc.v3.2"
+                    HintPath = "..\..\Program Files\Infragistics\NetAdvantage 2004 Volume 2\Windows Forms\Bin\Infragistics.Win.Misc.v3.2.dll"
+                    AssemblyFolderKey = "hklm\infragistics.winassemblies.20042"
+                    Private = "False"
+                />
+                <Reference
+                    Name = "Infragistics.Win.UltraWinGrid.v3.2"
+                    AssemblyName = "Infragistics.Win.UltraWinGrid.v3.2"
+                    HintPath = "..\..\Program Files\Infragistics\NetAdvantage 2004 Volume 2\Windows Forms\Bin\Infragistics.Win.UltraWinGrid.v3.2.dll"
+                    AssemblyFolderKey = "hklm\infragistics.winassemblies.20042"
+                    Private = "False"
+                />
+                <Reference
+                    Name = "Infragistics.Win.v3.2"
+                    AssemblyName = "Infragistics.Win.v3.2"
+                    HintPath = "..\..\Program Files\Infragistics\NetAdvantage 2004 Volume 2\Windows Forms\Bin\Infragistics.Win.v3.2.dll"
+                    AssemblyFolderKey = "hklm\infragistics.winassemblies.20042"
+                    Private = "False"
+                />
+                <Reference
+                    Name = "VBIDE"
+                    Guid = "{0002E157-0000-0000-C000-000000000046}"
+                    VersionMajor = "5"
+                    VersionMinor = "3"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "Interop.Word"
+                    AssemblyName = "Interop.Word"
+                    HintPath = "..\BusinessObjects\Interop Binaries\Interop.Word.dll"
+                />
+                <Reference
+                    Name = "MUSTER.Exception"
+                    AssemblyName = "MUSTER.Exception"
+                    HintPath = "..\BusinessObjects\BusinessLogicLayer\bin\MUSTER.Exception.dll"
+                />
+                <Reference
+                    Name = "MUSTER.Info"
+                    AssemblyName = "MUSTER.Info"
+                    HintPath = "..\BusinessObjects\BusinessLogicLayer\bin\MUSTER.Info.dll"
+                />
+                <Reference
+                    Name = "Microsoft.ApplicationBlocks.ExceptionManagement"
+                    AssemblyName = "Microsoft.ApplicationBlocks.ExceptionManagement"
+                    HintPath = "..\BusinessObjects\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll"
+                />
+                <Reference
+                    Name = "Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces"
+                    AssemblyName = "Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces"
+                    HintPath = "..\BusinessObjects\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "ICSharpCode.SharpZipLib"
+                    AssemblyName = "ICSharpCode.SharpZipLib"
+                    HintPath = "..\ThirdPartyDLLs\ICSharpCode.SharpZipLib.dll"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Shared"
+                    AssemblyName = "CrystalDecisions.Shared"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Shared.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.CrystalReports.Engine"
+                    AssemblyName = "CrystalDecisions.CrystalReports.Engine"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.CrystalReports.Engine.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Windows.Forms"
+                    AssemblyName = "CrystalDecisions.Windows.Forms"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Windows.Forms.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "MUSTER.DataAccess"
+                    AssemblyName = "MUSTER.DataAccess"
+                    HintPath = "..\BusinessObjects\DataAccessLayer\bin\MUSTER.DataAccess.dll"
+                />
+                <Reference
+                    Name = "Infragistics.Win.UltraWinEditors.v3.2"
+                    AssemblyName = "Infragistics.Win.UltraWinEditors.v3.2"
+                    HintPath = "..\..\..\Program Files\Infragistics\NetAdvantage 2004 Volume 2\Windows Forms\Bin\Infragistics.Win.UltraWinEditors.v3.2.dll"
+                    AssemblyFolderKey = "hklm\infragistics.winassemblies.20042"
+                />
+                <Reference
+                    Name = "System.Design"
+                    AssemblyName = "System.Design"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Design.dll"
+                />
+                <Reference
+                    Name = "MSComDlg"
+                    Guid = "{F9043C88-F6F2-101A-A3C9-08002B2F49FB}"
+                    VersionMajor = "1"
+                    VersionMinor = "2"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "AxMSComDlg"
+                    Guid = "{F9043C88-F6F2-101A-A3C9-08002B2F49FB}"
+                    VersionMajor = "1"
+                    VersionMinor = "2"
+                    Lcid = "0"
+                    WrapperTool = "aximp"
+                />
+                <Reference
+                    Name = "CrystalDecisions.KeyCode"
+                    AssemblyName = "CrystalDecisions.KeyCode"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.KeyCode.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "Accessibility"
+                    AssemblyName = "Accessibility"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\Accessibility.dll"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise"
+                    AssemblyName = "CrystalDecisions.Enterprise"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.Audit"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.Audit"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.Audit.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.CachePageServer"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.CachePageServer"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.CachePageServer.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.Cms"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.Cms"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.Cms.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.EventServer"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.EventServer"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.EventServer.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.FileServer"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.FileServer"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.FileServer.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.JobServer"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.JobServer"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.JobServer.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.ReportAppServer"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.ReportAppServer"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Admin.Wcs"
+                    AssemblyName = "CrystalDecisions.Enterprise.Admin.Wcs"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.Wcs.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Auth.secEnterprise"
+                    AssemblyName = "CrystalDecisions.Enterprise.Auth.secEnterprise"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secEnterprise.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Auth.secLdap"
+                    AssemblyName = "CrystalDecisions.Enterprise.Auth.secLDAP"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secLdap.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Auth.secWinAD"
+                    AssemblyName = "CrystalDecisions.Enterprise.Auth.secWinAD"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secWinAD.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Auth.secWindowsNT"
+                    AssemblyName = "CrystalDecisions.Enterprise.Auth.secWindowsNT"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Desktop.Calendar"
+                    AssemblyName = "CrystalDecisions.Enterprise.Desktop.Calendar"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Desktop.Calendar.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Desktop.Connection"
+                    AssemblyName = "CrystalDecisions.Enterprise.Desktop.Connection"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Desktop.Connection.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Enterprise.Framework"
+                    AssemblyName = "CrystalDecisions.Enterprise.Framework"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Framework.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.ReportAppServer.CommLayer"
+                    AssemblyName = "CrystalDecisions.ReportAppServer.CommLayer"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.ReportAppServer.CommLayer.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.ReportAppServer.ReportDefModel"
+                    AssemblyName = "CrystalDecisions.ReportAppServer.ReportDefModel"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.ReportAppServer.ReportDefModel.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.ReportSource"
+                    AssemblyName = "CrystalDecisions.ReportSource"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.ReportSource.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Web"
+                    AssemblyName = "CrystalDecisions.Web"
+                    HintPath = "..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Web.dll"
+                    AssemblyFolderKey = "hklm\crystal enterprise 10 .net"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "SQLDMO"
+                    Guid = "{10010001-E260-11CF-AE68-00AA004A34D5}"
+                    VersionMajor = "8"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "MUSTER.BusinessLogic"
+                    AssemblyName = "MUSTER.BusinessLogic"
+                    HintPath = "..\BusinessObjects\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Office.Core"
+                    Guid = "{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}"
+                    VersionMajor = "2"
+                    VersionMinor = "2"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "PowerPoint"
+                    Guid = "{91493440-5A91-11CF-8700-00AA0060263B}"
+                    VersionMajor = "2"
+                    VersionMinor = "7"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "Microsoft.mshtml"
+                    AssemblyName = "Microsoft.mshtml"
+                    HintPath = "..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll"
+                    AssemblyFolderKey = "hklm\primary interop assemblies"
+                    Private = "True"
+                />
+                <Reference
+                    Name = "SHDocVw"
+                    Guid = "{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}"
+                    VersionMajor = "1"
+                    VersionMinor = "1"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "System.Management"
+                    AssemblyName = "System.Management"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Management.dll"
+                />
+                <Reference
+                    Name = "System.Web"
+                    AssemblyName = "System.Web"
+                    HintPath = "..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.dll"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "App.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BootStrap.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\ChangePassword.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\ChangePassword.resx"
+                    DependentUpon = "ChangePassword.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\CodeTableManager.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\CodeTableManager.resx"
+                    DependentUpon = "CodeTableManager.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\CrystalReportsParamMaint.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\CrystalReportsParamMaint.resx"
+                    DependentUpon = "CrystalReportsParamMaint.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\FilePaths.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\FilePaths.resx"
+                    DependentUpon = "FilePaths.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\GroupAdmin.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\GroupAdmin.resx"
+                    DependentUpon = "GroupAdmin.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\ManageContactTypes.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\ManageContactTypes.resx"
+                    DependentUpon = "ManageContactTypes.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\ManageReports.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\ManageReports.resx"
+                    DependentUpon = "ManageReports.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\ModuleEntityRights.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\ModuleEntityRights.resx"
+                    DependentUpon = "ModuleEntityRights.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\ProfileDatumMaint.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\ProfileDatumMaint.resx"
+                    DependentUpon = "ProfileDatumMaint.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\UserAdmin.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\UserAdmin.resx"
+                    DependentUpon = "UserAdmin.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Administration\UserLogin.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Administration\UserLogin.resx"
+                    DependentUpon = "UserLogin.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\CAELicensees.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\CAELicensees.resx"
+                    DependentUpon = "CAELicensees.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\CandE.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\CandE.resx"
+                    DependentUpon = "CandE.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\CandEAssignedInspection.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\CandEAssignedInspection.resx"
+                    DependentUpon = "CandEAssignedInspection.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\CandEManagement.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\CandEManagement.resx"
+                    DependentUpon = "CandEManagement.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\CandEStatusSelection.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\CandEStatusSelection.resx"
+                    DependentUpon = "CandEStatusSelection.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\CitationList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\CitationList.resx"
+                    DependentUpon = "CitationList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\EnforcementHistory.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\EnforcementHistory.resx"
+                    DependentUpon = "EnforcementHistory.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\FacilityComplianceEvent.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\FacilityComplianceEvent.resx"
+                    DependentUpon = "FacilityComplianceEvent.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\Inspectors.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\Inspectors.resx"
+                    DependentUpon = "Inspectors.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\LicenseeComplianceEvent.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\LicenseeComplianceEvent.resx"
+                    DependentUpon = "LicenseeComplianceEvent.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\RedTagProhibitionChangeManager.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\RedTagProhibitionChangeManager.resx"
+                    DependentUpon = "RedTagProhibitionChangeManager.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\UserDate.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\UserDate.resx"
+                    DependentUpon = "UserDate.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "CandE Management\WorkShopDate.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CandE Management\WorkShopDate.resx"
+                    DependentUpon = "WorkShopDate.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Closure\Closure.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Closure\Closure.resx"
+                    DependentUpon = "Closure.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\Addresses.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Addresses.resx"
+                    DependentUpon = "Addresses.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\AddressMaster.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\AddressMaster.resx"
+                    DependentUpon = "AddressMaster.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\Company.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Company.resx"
+                    DependentUpon = "Company.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\CompanySearch.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\CompanySearch.resx"
+                    DependentUpon = "CompanySearch.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\CompanySearchResults.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\CompanySearchResults.resx"
+                    DependentUpon = "CompanySearchResults.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\Courses.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Courses.resx"
+                    DependentUpon = "Courses.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\LicenseeManagement.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\LicenseeManagement.resx"
+                    DependentUpon = "LicenseeManagement.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\Licensees.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Licensees.resx"
+                    DependentUpon = "Licensees.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\LicenseesList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\LicenseesList.resx"
+                    DependentUpon = "LicenseesList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\Managers.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Managers.resx"
+                    DependentUpon = "Managers.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Company\ManagersList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Providers.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Company\Providers.resx"
+                    DependentUpon = "Providers.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Contact Management\CompanyContactSearch.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Contact Management\CompanyContactSearch.resx"
+                    DependentUpon = "CompanyContactSearch.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Contact Management\ContactReconciliation.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Contact Management\ContactReconciliation.resx"
+                    DependentUpon = "ContactReconciliation.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Contact Management\Contacts.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Contact Management\Contacts.resx"
+                    DependentUpon = "Contacts.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Contact Management\ContactSearch.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Contact Management\ContactSearch.resx"
+                    DependentUpon = "ContactSearch.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Contact Management\ShowContacts.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Contact Management\ShowContacts.resx"
+                    DependentUpon = "ShowContacts.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\AdministrativeServices.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\AdministrativeServices.resx"
+                    DependentUpon = "AdministrativeServices.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\Fees.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\Fees.resx"
+                    DependentUpon = "Fees.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\FiscalYearFeeBasis.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\FiscalYearFeeBasis.resx"
+                    DependentUpon = "FiscalYearFeeBasis.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\GenerateCreditMemo.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\GenerateCreditMemo.resx"
+                    DependentUpon = "GenerateCreditMemo.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\GenerateDebitMemo.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\GenerateDebitMemo.resx"
+                    DependentUpon = "GenerateDebitMemo.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\GenerateRefund.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\GenerateRefund.resx"
+                    DependentUpon = "GenerateRefund.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\LateFeeWaiverRequest.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\LateFeeWaiverRequest.resx"
+                    DependentUpon = "LateFeeWaiverRequest.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\OverpaymentReason.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\OverpaymentReason.resx"
+                    DependentUpon = "OverpaymentReason.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Fees\ReallocateOwnerOverage.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Fees\ReallocateOwnerOverage.resx"
+                    DependentUpon = "ReallocateOwnerOverage.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\AddModifyActivity.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\AddModifyActivity.resx"
+                    DependentUpon = "AddModifyActivity.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\Adjustment.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\Adjustment.resx"
+                    DependentUpon = "Adjustment.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\Commitment.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\Commitment.resx"
+                    DependentUpon = "Commitment.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\CostFormat.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\CostFormat.resx"
+                    DependentUpon = "CostFormat.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\Financial.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\Financial.resx"
+                    DependentUpon = "Financial.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\FinTextAdmin.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\FinTextAdmin.resx"
+                    DependentUpon = "FinTextAdmin.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\IncompleteApplication.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\IncompleteApplication.resx"
+                    DependentUpon = "IncompleteApplication.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\Invoice.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\Invoice.resx"
+                    DependentUpon = "Invoice.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\InvoiceRequestAdmin.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\InvoiceRequestAdmin.resx"
+                    DependentUpon = "InvoiceRequestAdmin.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Financial\Rollovers.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Financial\Rollovers.resx"
+                    DependentUpon = "Rollovers.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Global\Comments\AddComments.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Global\Comments\AddComments.resx"
+                    DependentUpon = "AddComments.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Global\Comments\ShowComments.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Global\Comments\ShowComments.resx"
+                    DependentUpon = "ShowComments.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Global\Flags\AddFlags.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Global\Flags\AddFlags.resx"
+                    DependentUpon = "AddFlags.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Global\Flags\ShowFlags.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Global\Flags\ShowFlags.resx"
+                    DependentUpon = "ShowFlags.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\AssignedInspection.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\AssignedInspection.resx"
+                    DependentUpon = "AssignedInspection.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\CCAT.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\CCAT.resx"
+                    DependentUpon = "CCAT.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\CheckList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\CheckList.resx"
+                    DependentUpon = "CheckList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\CheckListProgress.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\CheckListProgress.resx"
+                    DependentUpon = "CheckListProgress.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\FacPicFileUpload.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\FacPicFileUpload.resx"
+                    DependentUpon = "FacPicFileUpload.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\FileRemovalButton.vb"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\FileRemovalButton.resx"
+                    DependentUpon = "FileRemovalButton.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\InspectionHistory.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\InspectionHistory.resx"
+                    DependentUpon = "InspectionHistory.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\InspectionSchedule.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\InspectionSchedule.resx"
+                    DependentUpon = "InspectionSchedule.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Inspection\RescheduleInspection.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Inspection\RescheduleInspection.resx"
+                    DependentUpon = "RescheduleInspection.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Letters\DocumentViewControl.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Letters\DocumentViewControl.resx"
+                    DependentUpon = "DocumentViewControl.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Letters\Letters.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Letters\Letters.resx"
+                    DependentUpon = "Letters.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Letters\RegLetters\CAP_Letters.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Letters\RegLetters\LetterGenerator.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Letters\RegLetters\Reg_Letters.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\Calendar.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\Calendar.resx"
+                    DependentUpon = "Calendar.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "MusterContainer\ErrorReport.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\ErrorReport.resx"
+                    DependentUpon = "ErrorReport.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "MusterContainer\Logon.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\Logon.resx"
+                    DependentUpon = "Logon.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "MusterContainer\MusterAbout.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\MusterAbout.resx"
+                    DependentUpon = "MusterAbout.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "MusterContainer\MusterContainer.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\MusterContainer.resx"
+                    DependentUpon = "MusterContainer.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "MusterContainer\MusterShortTitle.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "MusterContainer\ProgressScreen.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MusterContainer\ProgressScreen.resx"
+                    DependentUpon = "ProgressScreen.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\AddAvailablePipes.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\AddAvailablePipes.resx"
+                    DependentUpon = "AddAvailablePipes.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\CapEntry.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\CapEntry.resx"
+                    DependentUpon = "CapEntry.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\CAPPreMonthly.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\CAPPreMonthly.resx"
+                    DependentUpon = "CAPPreMonthly.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\CAPSignUp.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\CAPSignUp.resx"
+                    DependentUpon = "CAPSignUp.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\CMList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\CMList.resx"
+                    DependentUpon = "CMList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\DetachPipes.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\DetachPipes.resx"
+                    DependentUpon = "DetachPipes.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\DocsPhotos.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\DocsPhotos.resx"
+                    DependentUpon = "DocsPhotos.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\EditCompartments.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\EditCompartments.resx"
+                    DependentUpon = "EditCompartments.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\ParentPipeSelection.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\ParentPipeSelection.resx"
+                    DependentUpon = "ParentPipeSelection.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\Registration.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\Registration.resx"
+                    DependentUpon = "Registration.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\SelectCompartment.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\SelectCompartment.resx"
+                    DependentUpon = "SelectCompartment.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\SetUpOwner.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\SetUpOwner.resx"
+                    DependentUpon = "SetUpOwner.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Registration\TransferOwnership.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration\TransferOwnership.resx"
+                    DependentUpon = "TransferOwnership.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Reports\CrystalReportsParamForm.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Reports\CrystalReportsParamForm.resx"
+                    DependentUpon = "CrystalReportsParamForm.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Reports\ReportDisplay.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Reports\ReportDisplay.resx"
+                    DependentUpon = "ReportDisplay.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Search\AdvancedSearch.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Search\AdvancedSearch.resx"
+                    DependentUpon = "AdvancedSearch.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Search\AdvanceSearchSummary.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Search\AdvanceSearchSummary.resx"
+                    DependentUpon = "AdvanceSearchSummary.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Search\FavSearchDialog.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Search\FavSearchDialog.resx"
+                    DependentUpon = "FavSearchDialog.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Search\OwnerSearchResults.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Search\OwnerSearchResults.resx"
+                    DependentUpon = "OwnerSearchResults.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\Activity.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\Activity.resx"
+                    DependentUpon = "Activity.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\ActivityList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\ActivityList.resx"
+                    DependentUpon = "ActivityList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\Document.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\Document.resx"
+                    DependentUpon = "Document.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\DocumentList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\DocumentList.resx"
+                    DependentUpon = "DocumentList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\RemediationSystem.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\RemediationSystem.resx"
+                    DependentUpon = "RemediationSystem.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\RemediationSystemList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\RemediationSystemList.resx"
+                    DependentUpon = "RemediationSystemList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\Technical.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\Technical.resx"
+                    DependentUpon = "Technical.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Technical\TransferEvent.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Technical\TransferEvent.resx"
+                    DependentUpon = "TransferEvent.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\ActivityPlanning.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\ActivityPlanning.resx"
+                    DependentUpon = "ActivityPlanning.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\Address.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\Address.resx"
+                    DependentUpon = "Address.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\BaseModuleScreen.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\BaseModuleScreen.resx"
+                    DependentUpon = "BaseModuleScreen.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\CertifiedMail.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\CertifiedMail.resx"
+                    DependentUpon = "CertifiedMail.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\Exif.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\GridMaster.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\MapAddress.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\Mapdisplay.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\Mapdisplay.resx"
+                    DependentUpon = "Mapdisplay.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\MessageBoxCustom.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\NewTicklerMessageScreen.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\NewTicklerMessageScreen.resx"
+                    DependentUpon = "NewTicklerMessageScreen.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\OwnerSummary.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\OwnerSummary.resx"
+                    DependentUpon = "OwnerSummary.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\pictureViewer.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\pictureViewer.resx"
+                    DependentUpon = "pictureViewer.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\SalutationSelection.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\SalutationSelection.resx"
+                    DependentUpon = "SalutationSelection.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\TicklerAlert.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\TicklerAlert.resx"
+                    DependentUpon = "TicklerAlert.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\TicklerManager.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\TicklerScreen.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\TicklerScreen.resx"
+                    DependentUpon = "TicklerScreen.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UIUtils\UIUtilsGen.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UIUtils\UIUtilsInfragistics.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+            </Include>
+        </Files>
+        <StartupServices>
+            <Service ID = "{CF845C55-C321-4742-B673-E6212D061ED9}" />
+        </StartupServices>
+    </VisualBasic>
+</VisualStudioProject>
+

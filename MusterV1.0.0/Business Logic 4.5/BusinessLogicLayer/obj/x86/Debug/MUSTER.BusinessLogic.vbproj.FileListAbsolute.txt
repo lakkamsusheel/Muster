@@ -1,0 +1,3 @@
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\x86\Debug\Interop.VBIDE.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\x86\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UnZipDB", "UnZipDB.vbproj", "{781128B3-113E-4072-8333-B4C7D6D1F8A7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{781128B3-113E-4072-8333-B4C7D6D1F8A7}.Debug.ActiveCfg = Debug|.NET
+		{781128B3-113E-4072-8333-B4C7D6D1F8A7}.Debug.Build.0 = Debug|.NET
+		{781128B3-113E-4072-8333-B4C7D6D1F8A7}.Release.ActiveCfg = Release|.NET
+		{781128B3-113E-4072-8333-B4C7D6D1F8A7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

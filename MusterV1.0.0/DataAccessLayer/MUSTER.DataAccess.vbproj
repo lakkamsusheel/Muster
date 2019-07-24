@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B701F6B1-04FC-47B7-990A-15B24BC9983A}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>MUSTER.DataAccess</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace />
+    <StartupObject />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MUSTER.DataAccess.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MUSTER.DataAccess.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>MUSTER.DataAccess.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>MUSTER.DataAccess.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>MUSTER.DataAccess.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>MUSTER.DataAccess.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement">
+      <Name>Microsoft.ApplicationBlocks.ExceptionManagement</Name>
+      <HintPath>..\InfoLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces">
+      <Name>Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces</Name>
+      <HintPath>..\InfoLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MUSTER.Exception">
+      <Name>MUSTER.Exception</Name>
+      <HintPath>..\InfoLayer\bin\MUSTER.Exception.dll</HintPath>
+    </Reference>
+    <Reference Include="MUSTER.Info">
+      <Name>MUSTER.Info</Name>
+      <HintPath>..\InfoLayer\bin\MUSTER.Info.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvancedSearchDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CalendarDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClosureEventDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComAddressDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommentsDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyLicenseeDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompartmentDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContactDatumDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContactStructDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CourseDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EntityDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacilityComplianceEventDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacilityDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FavSearchDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeAdjustmentDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeBasisDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeInvoiceDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeLateFeeDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeReceiptDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialActivityDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCommitAdjustmentDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCommitmentDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialInvoiceDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialReimbursementDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialTextDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FlagDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Helper Classes\Global.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Helper Classes\SqlHelper.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Helper Classes\Utills.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCCATDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionChecklistMasterDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCitationDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCommentsDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCPReadingsDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionDiscrepDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionMonitorWellsDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionRectifierDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionResponsesDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionSketchDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionSOCDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectorCountyAssociationDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectorOwnerAssignmentDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LetterDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseCoursesTestsDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeComplianceEventDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeCourseDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustEventActivityDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustEventDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustEventDocumentsDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustRemediationDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OwnerComplianceEventDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OwnerDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PendFeeLineDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PersonaDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PipeDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProfileDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PropertyDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PropertyTypeDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProviderDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegistrationActivityDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegistrationDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RelationDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReportDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SearchDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TankDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecActDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecDocDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecFinancialActivityPlannerDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TemplateDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TicklerMessageDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserGroupDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WorkshopDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZipCodeDB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

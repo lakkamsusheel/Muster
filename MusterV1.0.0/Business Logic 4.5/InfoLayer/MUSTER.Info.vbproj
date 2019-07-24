@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58217EFD-5BA5-45E3-9836-BC9A63472306}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>MUSTER.Info</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>VBScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace />
+    <StartupObject />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MUSTER.Info.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MUSTER.Info.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement">
+      <Name>Microsoft.ApplicationBlocks.ExceptionManagement</Name>
+      <HintPath>..\MusterException.root\MusterException\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces">
+      <Name>Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces</Name>
+      <HintPath>..\MusterException.root\MusterException\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MUSTER.Exception">
+      <Name>MUSTER.Exception</Name>
+      <HintPath>..\MusterException.root\MusterException\bin\MUSTER.Exception.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AddressInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvancedSearchCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvancedSearchInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AppFlagInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AppFlagsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CalendarCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CalendarInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CipherBlock.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClosureEventCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClosureEventInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComAddressCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComAddressInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommentsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommentsInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyLicenseeCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompanyLicenseeInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompartmentCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CompartmentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContactDatumCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContactDatumInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContactStructCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ContactStructInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CourseCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CourseInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EntityCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EntityInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacilityCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacilityComplianceEventInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacilityComplianceEventsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacilityInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FavSearchChildCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FavSearchChildInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FavSearchParentCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FavSearchParentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeAdjustmentCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeAdjustmentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeBasisCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeInvoiceCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeInvoiceInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeLateFeeCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeLateFeeInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeReceiptCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeeReceiptInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FeesBasisInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialActivityCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialActivityInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCommitAdjustmentCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCommitAdjustmentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCommitmentCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialCommitmentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialInvoiceCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialInvoiceInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialReimbursementCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialReimbursementInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialTextCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FinancialTextInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FlagInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FlagsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GroupModuleRelationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GroupModuleRelationsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCCATCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCCATInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionChecklistMasterInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionChecklistMastersCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCitationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCitationsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCommentsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCommentsInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCPReadingsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionCPReadingsInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionDiscrepInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionDiscrepsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionMonitorWellsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionMonitorWellsInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionRectifierInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionRectifiersCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionResponsesCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionResponsesInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionSketchInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionSketchsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionSOCInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectionSOCsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectorCountyAssociationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectorCountyAssociationsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectorOwnerAssignmentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="InspectorOwnerAssignmentsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interfaces\iAccessors.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interfaces\iBaseDataOps.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LetterCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="letterinfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseCourseTestInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeComplianceEventCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeComplianceEventInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeCourseCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeCourseInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeCourseTestCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LicenseeInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LookupProperty.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustActivityCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustActivityInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustDocumentCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustDocumentInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustEventCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustEventInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustRemediationCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LustRemediationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ManagerFacRelationCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ManagerFacRelationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OwnerComplianceEventInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OwnerComplianceEventsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OwnerInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OwnersCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PendFeeLineCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PendFeeLineInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PersonaCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PersonaInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PipeInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PipesCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProfileCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProfileInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PropertyCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PropertyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PropertyTypeCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PropertyTypeInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProviderCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProviderInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegistrationActivityCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegistrationActivityInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegistrationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RegistrationsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReportGroupRelationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReportGroupRelationsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReportInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReportsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SearchInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TankCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TankInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecActCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecActInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecDocCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecDocInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecFinancialActivityPlannerCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TecFinancialActivityPlannerInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TemplateInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TemplatesCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TicklerMessageInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserAuditPoint.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserAuditPointCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserGroupCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserGroupInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserGroupRelationInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserGroupRelationsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WorkshopInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WorkshopsCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZipCodeCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZipCodeInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

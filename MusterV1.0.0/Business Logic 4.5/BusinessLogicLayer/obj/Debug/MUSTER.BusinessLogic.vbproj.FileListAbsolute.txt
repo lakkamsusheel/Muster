@@ -1,0 +1,206 @@
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.VBIDE.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.VBIDE.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.VBIDE.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\Sandy latest code - v4.5\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.VBIDE.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.VBIDE.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.VBIDE.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\crystaldecisions.crystalreports.engine.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\CrystalDecisions.Shared.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\crystaldecisions.crystalreports.engine.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\CrystalDecisions.Shared.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\Interop.VBIDE.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Exception.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.Info.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.vbproj.ResolveComReference.cache
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\Business Logic 4.5\BusinessLogicLayer\obj\Debug\MUSTER.BusinessLogic.pdb

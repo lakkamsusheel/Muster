@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Solution_Muster.sln]
+SCC_Aux_Path = "F:\backupVSS\VSS_MUSTER"
+SCC_Project_Name = "$/DEQ/Current_Solution", WNUAAAAA
+
+[UIServices.vbproj]
+SCC_Aux_Path = "\\opcgw\USTVSS\VSS_MUSTER"
+SCC_Project_Name = "$/DEQ/Current_Solution", WNUAAAAA

@@ -1,0 +1,54 @@
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\obj\Debug\MUSTER.DataAccess.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.Exception.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.Exception.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.Info.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\bin\MUSTER.Info.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\DataAccessLayer\obj\Debug\MUSTER.DataAccess.pdb

@@ -1,0 +1,11 @@
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\bin\MUSTER.exe.config
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.MSMask.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.VBIDE.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\AxInterop.MSComDlg.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\AxInterop.MSMask.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\Backup\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache

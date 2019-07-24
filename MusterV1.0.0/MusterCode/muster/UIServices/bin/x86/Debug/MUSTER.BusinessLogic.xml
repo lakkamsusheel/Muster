@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MUSTER.BusinessLogic
+</name>
+</assembly>
+<members>
+<member name="M:MUSTER.BusinessLogic.pCompartment.GetAll(System.Int32,System.Boolean)">
+Public Function DeleteCompartment() As Boolean
+    Try
+        For Each opipeinfo As MUSTER.Info.PipeInfo In oTankInfo.pipesCollection.Values
+            If opipeinfo.CompartmentID = oCompartmentInfo.ID Then
+                RaiseEvent evtCompartmentErr("The Specified compartment has associated Pipe(s). Delete Pipe(s) before deleting the compartment")
+                Exit Try
+            End If
+        Next
+        ' comp does not have pipe(s), delete comp
+        oCompartmentInfo.Deleted = True
+        Return False 'Me.Save(True, True)
+    Catch ex As Exception
+        If InStr(UCase(ex.Source), UCase("MUSTER.BusinessLogic")) Then MusterException.Publish(ex, Nothing, Nothing)
+        Throw ex
+        Return False
+    End Try
+End Function
+
+</member><member name="M:MUSTER.BusinessLogic.pCompartment.Flush(System.Int32,System.Int32,System.String@,System.String,System.Boolean)">
+End Function
+
+</member><member name="M:MUSTER.BusinessLogic.pLetter.Flush">
+Public Function colIsDirty() As Boolean
+    Dim oTempInfo As Muster.Info.LetterInfo
+    For Each oTempInfo In colLetter.Values
+        If oTempInfo.IsDirty Then
+            Return True
+        End If
+    Next
+    Return False
+End Function
+
+</member>
+</members>
+</doc>

@@ -1,0 +1,73 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MUSTER.Info", "InfoLayer\MUSTER.Info.vbproj", "{58217EFD-5BA5-45E3-9836-BC9A63472306}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3BF34934-DD04-4554-9884-8FE265E01524} = {3BF34934-DD04-4554-9884-8FE265E01524}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MUSTER.DataAccess", "DataAccessLayer\MUSTER.DataAccess.vbproj", "{B701F6B1-04FC-47B7-990A-15B24BC9983A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3BF34934-DD04-4554-9884-8FE265E01524} = {3BF34934-DD04-4554-9884-8FE265E01524}
+		{58217EFD-5BA5-45E3-9836-BC9A63472306} = {58217EFD-5BA5-45E3-9836-BC9A63472306}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MUSTER.BusinessLogic", "BusinessLogicLayer\MUSTER.BusinessLogic.vbproj", "{67CBC94F-E15E-4FF4-A434-9B5426F9818A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3BF34934-DD04-4554-9884-8FE265E01524} = {3BF34934-DD04-4554-9884-8FE265E01524}
+		{B701F6B1-04FC-47B7-990A-15B24BC9983A} = {B701F6B1-04FC-47B7-990A-15B24BC9983A}
+		{58217EFD-5BA5-45E3-9836-BC9A63472306} = {58217EFD-5BA5-45E3-9836-BC9A63472306}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MusterException", "MusterException.root\MusterException\MusterException.vbproj", "{3BF34934-DD04-4554-9884-8FE265E01524}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {75171846-571C-4702-B876-9EB1A6527A3B}
+		SccProjectUniqueName1 = BusinessLogicLayer\\MUSTER.BusinessLogic.vbproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = BusinessLogicLayer\\
+		SccProjectUniqueName2 = DataAccessLayer\\MUSTER.DataAccess.vbproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = DataAccessLayer\\
+		SccProjectUniqueName3 = InfoLayer\\MUSTER.Info.vbproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = InfoLayer\\
+		SccProjectUniqueName4 = MusterException.root\\MusterException\\MusterException.vbproj
+		SccProjectName4 = \u0022$/DEQ/Current_Solution/BusinessObjects/MusterException.root/MusterException\u0022,\u0020EOUAAAAA
+		SccLocalPath4 = MusterException.root\\MusterException
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{58217EFD-5BA5-45E3-9836-BC9A63472306}.Debug.ActiveCfg = Debug|.NET
+		{58217EFD-5BA5-45E3-9836-BC9A63472306}.Debug.Build.0 = Debug|.NET
+		{58217EFD-5BA5-45E3-9836-BC9A63472306}.Release.ActiveCfg = Release|.NET
+		{58217EFD-5BA5-45E3-9836-BC9A63472306}.Release.Build.0 = Release|.NET
+		{B701F6B1-04FC-47B7-990A-15B24BC9983A}.Debug.ActiveCfg = Debug|.NET
+		{B701F6B1-04FC-47B7-990A-15B24BC9983A}.Debug.Build.0 = Debug|.NET
+		{B701F6B1-04FC-47B7-990A-15B24BC9983A}.Release.ActiveCfg = Release|.NET
+		{B701F6B1-04FC-47B7-990A-15B24BC9983A}.Release.Build.0 = Release|.NET
+		{67CBC94F-E15E-4FF4-A434-9B5426F9818A}.Debug.ActiveCfg = Debug|.NET
+		{67CBC94F-E15E-4FF4-A434-9B5426F9818A}.Debug.Build.0 = Debug|.NET
+		{67CBC94F-E15E-4FF4-A434-9B5426F9818A}.Release.ActiveCfg = Release|.NET
+		{67CBC94F-E15E-4FF4-A434-9B5426F9818A}.Release.Build.0 = Release|.NET
+		{3BF34934-DD04-4554-9884-8FE265E01524}.Debug.ActiveCfg = Debug|.NET
+		{3BF34934-DD04-4554-9884-8FE265E01524}.Debug.Build.0 = Debug|.NET
+		{3BF34934-DD04-4554-9884-8FE265E01524}.Release.ActiveCfg = Release|.NET
+		{3BF34934-DD04-4554-9884-8FE265E01524}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A228D60E-3C06-4224-86AC-78E7C0887056}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>MusterContainer\MusterShortTitle.ico</ApplicationIcon>
+    <AssemblyKeyContainerName />
+    <AssemblyName>MUSTER</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>MUSTER</RootNamespace>
+    <StartupObject>MUSTER.BootStrap</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MUSTER.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>MUSTER.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <COMReference Include="MSComDlg">
+      <Guid>{F9043C88-F6F2-101A-A3C9-08002B2F49FB}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSMask">
+      <Guid>{C932BA88-4374-101B-A56C-00AA003668DC}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SQLDMO">
+      <Guid>{10010001-E260-11CF-AE68-00AA004A34D5}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <Reference Include="Accessibility">
+      <Name>Accessibility</Name>
+    </Reference>
+    <Reference Include="AxInterop.MSComDlg, Version=1.2.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AxInterop.MSComDlg.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.MSMask, Version=1.1.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AxInterop.MSMask.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC\CrystalDecisions.CrystalReports.Engine\10.0.3300.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise">
+      <Name>CrystalDecisions.Enterprise</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.Audit">
+      <Name>CrystalDecisions.Enterprise.Admin.Audit</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.Audit.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.CachePageServer">
+      <Name>CrystalDecisions.Enterprise.Admin.CachePageServer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.CachePageServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.Cms">
+      <Name>CrystalDecisions.Enterprise.Admin.Cms</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.Cms.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.EventServer">
+      <Name>CrystalDecisions.Enterprise.Admin.EventServer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.EventServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.FileServer">
+      <Name>CrystalDecisions.Enterprise.Admin.FileServer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.FileServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.JobServer">
+      <Name>CrystalDecisions.Enterprise.Admin.JobServer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.JobServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.ReportAppServer">
+      <Name>CrystalDecisions.Enterprise.Admin.ReportAppServer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Admin.Wcs">
+      <Name>CrystalDecisions.Enterprise.Admin.Wcs</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Admin.Wcs.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Auth.secEnterprise">
+      <Name>CrystalDecisions.Enterprise.Auth.secEnterprise</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secEnterprise.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Auth.secLDAP">
+      <Name>CrystalDecisions.Enterprise.Auth.secLdap</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secLdap.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Auth.secWinAD">
+      <Name>CrystalDecisions.Enterprise.Auth.secWinAD</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secWinAD.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Auth.secWindowsNT">
+      <Name>CrystalDecisions.Enterprise.Auth.secWindowsNT</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Desktop.Calendar">
+      <Name>CrystalDecisions.Enterprise.Desktop.Calendar</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Desktop.Calendar.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Desktop.Connection">
+      <Name>CrystalDecisions.Enterprise.Desktop.Connection</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Desktop.Connection.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework">
+      <Name>CrystalDecisions.Enterprise.Framework</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Enterprise.Framework.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.KeyCode">
+      <Name>CrystalDecisions.KeyCode</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.KeyCode.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal.net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Name>CrystalDecisions.ReportAppServer.CommLayer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.ReportAppServer.CommLayer.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Name>CrystalDecisions.ReportAppServer.ReportDefModel</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.ReportAppServer.ReportDefModel.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource">
+      <Name>CrystalDecisions.ReportSource</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.ReportSource.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal.net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared">
+      <Name>CrystalDecisions.Shared</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Shared.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web">
+      <Name>CrystalDecisions.Web</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Web.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms">
+      <Name>CrystalDecisions.Windows.Forms</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Crystal Decisions\2.5\managed\CrystalDecisions.Windows.Forms.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal enterprise 10 .net</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <Name>ICSharpCode.SharpZipLib</Name>
+      <HintPath>..\ThirdPartyDLLs\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics4.Shared.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Shared.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.SupportDialogs.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.SupportDialogs.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinDataSource.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinDataSource.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinGrid.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinGrid.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinTabControl.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinTabControl.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.UltraWinToolbars.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.UltraWinToolbars.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.v13.2, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics4.Win.v13.2.Design, Version=13.2.20132.2098, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Infragistics\2013.2\Windows Forms\CLR4.0\Bin\Infragistics4.Win.v13.2.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core, Version=2.2.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Interop.Microsoft.Office.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.PowerPoint, Version=2.10.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Interop.Microsoft.Office.Interop.PowerPoint.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Word, Version=8.5.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Interop.Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSMask, Version=1.1.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Interop.MSMask.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.PowerPoint, Version=2.7.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Interop.PowerPoint.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Word, Version=8.2.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement">
+      <Name>Microsoft.ApplicationBlocks.ExceptionManagement</Name>
+      <HintPath>..\BusinessObjects\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces">
+      <Name>Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces</Name>
+      <HintPath>..\BusinessObjects\BusinessLogicLayer\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml">
+      <Name>Microsoft.mshtml</Name>
+      <HintPath>..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Configuration, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Security.Cryptography, Version=1.1.0.0, Culture=neutral" />
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="MUSTER.BusinessLogic, Version=1.3.3.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.BusinessLogic.dll</HintPath>
+    </Reference>
+    <Reference Include="MUSTER.DataAccess, Version=1.3.3.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Business Logic 4.5\BusinessLogicLayer\bin\MUSTER.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="MUSTER.Exception">
+      <Name>MUSTER.Exception</Name>
+      <HintPath>..\BusinessObjects\BusinessLogicLayer\bin\MUSTER.Exception.dll</HintPath>
+    </Reference>
+    <Reference Include="MUSTER.Info">
+      <Name>MUSTER.Info</Name>
+      <HintPath>..\BusinessObjects\BusinessLogicLayer\bin\MUSTER.Info.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management">
+      <Name>System.Management</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <Name>System.Runtime.Serialization.Formatters.Soap</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administration\ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\CodeTableManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\CrystalReportsParamMaint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\FilePaths.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\GroupAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\ManageContactTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\ManageReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\ModuleEntityRights.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\ProfileDatumMaint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\UserAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\UserLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BootStrap.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CandE Management\CAELicensees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\CandE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\CandEAssignedInspection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\CandEManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\CandEStatusSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\CitationList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\EnforcementHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\FacilityComplianceEvent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\Inspectors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\LicenseeComplianceEvent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\RedTagProhibitionChangeManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\UserDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CandE Management\WorkShopDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Closure\Closure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\Addresses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\AddressMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\Company.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\CompanySearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\CompanySearchResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\Courses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\LicenseeManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\Licensees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\LicenseesList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\Managers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\ManagersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company\Providers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact Management\CompanyContactSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact Management\ContactReconciliation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact Management\Contacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact Management\ContactSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact Management\ShowContacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\AdministrativeServices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\Fees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\FiscalYearFeeBasis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\GenerateCreditMemo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\GenerateDebitMemo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\GenerateRefund.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\LateFeeWaiverRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\OverpaymentReason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees\ReallocateOwnerOverage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\AddModifyActivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\Adjustment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\Commitment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\CostFormat.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Financial\Financial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\FinTextAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\IncompleteApplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\Invoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\InvoiceRequestAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\Rollovers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global\Comments\AddComments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global\Comments\ShowComments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global\Flags\AddFlags.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global\Flags\ShowFlags.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\AssignedInspection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\CCAT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\CheckList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\CheckListProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\FacPicFileUpload.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inspection\FileRemovalButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Inspection\InspectionHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\InspectionSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\RescheduleInspection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Letters\DocumentViewControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Letters\Letters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Letters\RegLetters\CAP_Letters.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Letters\RegLetters\LetterGenerator.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Letters\RegLetters\Reg_Letters.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MusterContainer\Calendar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusterContainer\ErrorReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusterContainer\Logon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusterContainer\MusterAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusterContainer\MusterContainer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusterContainer\ProgressScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\AddAvailablePipes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\CapEntry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Registration\CAPPreMonthly.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\CAPSignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\CMList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\DetachPipes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\DocsPhotos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\EditCompartments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\ParentPipeSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\SelectCompartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\SetUpOwner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\TransferOwnership.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\CrystalReportsParamForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search\AdvancedSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search\AdvanceSearchSummary.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Search\FavSearchDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search\OwnerSearchResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\Activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\ActivityList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\Document.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\DocumentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\RemediationSystem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\RemediationSystemList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\Technical.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Technical\TransferEvent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\ActivityPlanning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\Address.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\BaseModuleScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\CertifiedMail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\Exif.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UIUtils\GridMaster.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UIUtils\MapAddress.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UIUtils\Mapdisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\MessageBoxCustom.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UIUtils\NewTicklerMessageScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\OwnerSummary.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIUtils\pictureViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\SalutationSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\TicklerAlert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\TicklerManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UIUtils\TicklerScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIUtils\UIUtilsGen.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UIUtils\UIUtilsInfragistics.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Content Include="MusterContainer\MusterShortTitle.ico" />
+    <EmbeddedResource Include="Administration\ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\CodeTableManager.resx">
+      <DependentUpon>CodeTableManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\CrystalReportsParamMaint.resx">
+      <DependentUpon>CrystalReportsParamMaint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\FilePaths.resx">
+      <DependentUpon>FilePaths.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\GroupAdmin.resx">
+      <DependentUpon>GroupAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\ManageContactTypes.resx">
+      <DependentUpon>ManageContactTypes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\ManageReports.resx">
+      <DependentUpon>ManageReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\ModuleEntityRights.resx">
+      <DependentUpon>ModuleEntityRights.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\ProfileDatumMaint.resx">
+      <DependentUpon>ProfileDatumMaint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\UserAdmin.resx">
+      <DependentUpon>UserAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\UserLogin.resx">
+      <DependentUpon>UserLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\CAELicensees.resx">
+      <DependentUpon>CAELicensees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\CandE.resx">
+      <DependentUpon>CandE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\CandEAssignedInspection.resx">
+      <DependentUpon>CandEAssignedInspection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\CandEManagement.resx">
+      <DependentUpon>CandEManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\CandEStatusSelection.resx">
+      <DependentUpon>CandEStatusSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\CitationList.resx">
+      <DependentUpon>CitationList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\EnforcementHistory.resx">
+      <DependentUpon>EnforcementHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\FacilityComplianceEvent.resx">
+      <DependentUpon>FacilityComplianceEvent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\Inspectors.resx">
+      <DependentUpon>Inspectors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\LicenseeComplianceEvent.resx">
+      <DependentUpon>LicenseeComplianceEvent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\RedTagProhibitionChangeManager.resx">
+      <DependentUpon>RedTagProhibitionChangeManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\UserDate.resx">
+      <DependentUpon>UserDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CandE Management\WorkShopDate.resx">
+      <DependentUpon>WorkShopDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Closure\Closure.resx">
+      <DependentUpon>Closure.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\Addresses.resx">
+      <DependentUpon>Addresses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\AddressMaster.resx">
+      <DependentUpon>AddressMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\Company.resx">
+      <DependentUpon>Company.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\CompanySearch.resx">
+      <DependentUpon>CompanySearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\CompanySearchResults.resx">
+      <DependentUpon>CompanySearchResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\Courses.resx">
+      <DependentUpon>Courses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\LicenseeManagement.resx">
+      <DependentUpon>LicenseeManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\Licensees.resx">
+      <DependentUpon>Licensees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\LicenseesList.resx">
+      <DependentUpon>LicenseesList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\Managers.resx">
+      <DependentUpon>Managers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company\Providers.resx">
+      <DependentUpon>Providers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact Management\CompanyContactSearch.resx">
+      <DependentUpon>CompanyContactSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact Management\ContactReconciliation.resx">
+      <DependentUpon>ContactReconciliation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact Management\Contacts.resx">
+      <DependentUpon>Contacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact Management\ContactSearch.resx">
+      <DependentUpon>ContactSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact Management\ShowContacts.resx">
+      <DependentUpon>ShowContacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\AdministrativeServices.resx">
+      <DependentUpon>AdministrativeServices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\Fees.resx">
+      <DependentUpon>Fees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\FiscalYearFeeBasis.resx">
+      <DependentUpon>FiscalYearFeeBasis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\GenerateCreditMemo.resx">
+      <DependentUpon>GenerateCreditMemo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\GenerateDebitMemo.resx">
+      <DependentUpon>GenerateDebitMemo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\GenerateRefund.resx">
+      <DependentUpon>GenerateRefund.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\LateFeeWaiverRequest.resx">
+      <DependentUpon>LateFeeWaiverRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\OverpaymentReason.resx">
+      <DependentUpon>OverpaymentReason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees\ReallocateOwnerOverage.resx">
+      <DependentUpon>ReallocateOwnerOverage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\AddModifyActivity.resx">
+      <DependentUpon>AddModifyActivity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\Adjustment.resx">
+      <DependentUpon>Adjustment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\Commitment.resx">
+      <DependentUpon>Commitment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\CostFormat.resx">
+      <DependentUpon>CostFormat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\Financial.resx">
+      <DependentUpon>Financial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\FinTextAdmin.resx">
+      <DependentUpon>FinTextAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\IncompleteApplication.resx">
+      <DependentUpon>IncompleteApplication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\Invoice.resx">
+      <DependentUpon>Invoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\InvoiceRequestAdmin.resx">
+      <DependentUpon>InvoiceRequestAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\Rollovers.resx">
+      <DependentUpon>Rollovers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global\Comments\AddComments.resx">
+      <DependentUpon>AddComments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global\Comments\ShowComments.resx">
+      <DependentUpon>ShowComments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global\Flags\AddFlags.resx">
+      <DependentUpon>AddFlags.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global\Flags\ShowFlags.resx">
+      <DependentUpon>ShowFlags.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\AssignedInspection.resx">
+      <DependentUpon>AssignedInspection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\CCAT.resx">
+      <DependentUpon>CCAT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\CheckList.resx">
+      <DependentUpon>CheckList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\CheckListProgress.resx">
+      <DependentUpon>CheckListProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\FacPicFileUpload.resx">
+      <DependentUpon>FacPicFileUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\FileRemovalButton.resx">
+      <DependentUpon>FileRemovalButton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\InspectionHistory.resx">
+      <DependentUpon>InspectionHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\InspectionSchedule.resx">
+      <DependentUpon>InspectionSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\RescheduleInspection.resx">
+      <DependentUpon>RescheduleInspection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Letters\DocumentViewControl.resx">
+      <DependentUpon>DocumentViewControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Letters\Letters.resx">
+      <DependentUpon>Letters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterContainer\Calendar.resx">
+      <DependentUpon>Calendar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterContainer\ErrorReport.resx">
+      <DependentUpon>ErrorReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterContainer\Logon.resx">
+      <DependentUpon>Logon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterContainer\MusterAbout.resx">
+      <DependentUpon>MusterAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterContainer\MusterContainer.resx">
+      <DependentUpon>MusterContainer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterContainer\ProgressScreen.resx">
+      <DependentUpon>ProgressScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Registration\AddAvailablePipes.resx">
+      <DependentUpon>AddAvailablePipes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\CapEntry.resx">
+      <DependentUpon>CapEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\CAPPreMonthly.resx">
+      <DependentUpon>CAPPreMonthly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\CAPSignUp.resx">
+      <DependentUpon>CAPSignUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\CMList.resx">
+      <DependentUpon>CMList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\DetachPipes.resx">
+      <DependentUpon>DetachPipes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\DocsPhotos.resx">
+      <DependentUpon>DocsPhotos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\EditCompartments.resx">
+      <DependentUpon>EditCompartments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\ParentPipeSelection.resx">
+      <DependentUpon>ParentPipeSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\Registration.resx">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\SelectCompartment.resx">
+      <DependentUpon>SelectCompartment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\SetUpOwner.resx">
+      <DependentUpon>SetUpOwner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\TransferOwnership.resx">
+      <DependentUpon>TransferOwnership.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CrystalReportsParamForm.resx">
+      <DependentUpon>CrystalReportsParamForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportDisplay.resx">
+      <DependentUpon>ReportDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search\AdvancedSearch.resx">
+      <DependentUpon>AdvancedSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search\AdvanceSearchSummary.resx">
+      <DependentUpon>AdvanceSearchSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search\FavSearchDialog.resx">
+      <DependentUpon>FavSearchDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search\OwnerSearchResults.resx">
+      <DependentUpon>OwnerSearchResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\Activity.resx">
+      <DependentUpon>Activity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\ActivityList.resx">
+      <DependentUpon>ActivityList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\Document.resx">
+      <DependentUpon>Document.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\DocumentList.resx">
+      <DependentUpon>DocumentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\RemediationSystem.resx">
+      <DependentUpon>RemediationSystem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\RemediationSystemList.resx">
+      <DependentUpon>RemediationSystemList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\Technical.resx">
+      <DependentUpon>Technical.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Technical\TransferEvent.resx">
+      <DependentUpon>TransferEvent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\ActivityPlanning.resx">
+      <DependentUpon>ActivityPlanning.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\Address.resx">
+      <DependentUpon>Address.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\BaseModuleScreen.resx">
+      <DependentUpon>BaseModuleScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\CertifiedMail.resx">
+      <DependentUpon>CertifiedMail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\Mapdisplay.resx">
+      <DependentUpon>Mapdisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\NewTicklerMessageScreen.resx">
+      <DependentUpon>NewTicklerMessageScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\OwnerSummary.resx">
+      <DependentUpon>OwnerSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\pictureViewer.resx">
+      <DependentUpon>pictureViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\SalutationSelection.resx">
+      <DependentUpon>SalutationSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\TicklerAlert.resx">
+      <DependentUpon>TicklerAlert.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIUtils\TicklerScreen.resx">
+      <DependentUpon>TicklerScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

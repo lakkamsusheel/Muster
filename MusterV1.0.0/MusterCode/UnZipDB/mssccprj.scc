@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[UnZipDB.sln]
+SCC_Aux_Path = "\\opcgw\USTVSS\VSS_MUSTER"
+SCC_Project_Name = "$/DEQ/ConsoleApplications/UnZipDB", GPUAAAAA
+
+[UnZipDB.vbproj]
+SCC_Aux_Path = "\\opcgw\USTVSS\VSS_MUSTER"
+SCC_Project_Name = "$/DEQ/ConsoleApplications/UnZipDB", GPUAAAAA

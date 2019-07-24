@@ -1,0 +1,9 @@
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\bin\MUSTER.Exception.pdb
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\bin\MUSTER.Exception.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\obj\Debug\MusterException.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\obj\Debug\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\obj\Debug\MUSTER.Exception.xml
+C:\Users\yaga\Desktop\Business Logic 4.5\MusterException.root\MusterException\obj\Debug\MUSTER.Exception.pdb

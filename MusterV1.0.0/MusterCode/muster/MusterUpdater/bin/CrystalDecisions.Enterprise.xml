@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CrystalDecisions.Enterprise</name>
+    </assembly>
+    <members>
+        <member name="T:CrystalDecisions.Enterprise.Design.CodeDomUtils">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Design.CodeDomUtils.RemovePropertyAssignment(System.CodeDom.CodeStatementCollection,System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Design.CodeDomUtils.AddPropertyAssignment(System.CodeDom.CodeStatementCollection,System.CodeDom.CodeExpression,System.String,System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Design.CodeDomUtils.AddCollectionAdd(System.CodeDom.CodeStatementCollection,System.CodeDom.CodeExpression,System.String,System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Design.CodeDomUtils.AddThisArgToCtor(System.CodeDom.CodeAssignStatement)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.Design.DesignUtils">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Design.DesignUtils.preFilterLocalizedDefaultStringValueAttribute(System.ComponentModel.IComponent,System.Collections.IDictionary)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Design.DesignUtils.getDesignTimeImageURL(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.Identity">
+            <doc for="Identity">
+				<summary>A non-visual component that provides the capability to log on and log off Crystal Enterprise, and manages internal references to Crystal Enterprise.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Identity._identityState">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.#ctor(System.ComponentModel.IContainer)">
+            <doc for="Identity.Identity1">
+				<summary>Initializes a new instance of the Identity class.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.#ctor">
+            <doc for="Identity.Identity">
+				<summary>Initializes a new instance of the Identity class. This is the default constructor for this class.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <doc for="Identity.Identity2">
+				<summary>Initializes a new instance of the Identity class.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.reestablishSession">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.persistState(System.Boolean)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.persistState">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.GetToken">
+            <doc for="Identity.GetToken">
+				<summary>Returns a logon token for the currently logged-on user.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.GetUserRootFolder">
+            <doc for="Identity.GetUserRootFolder">
+				<summary>Returns the folder ID of the currently logged on user's favorites folder.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.Logon">
+            <doc for="Identity.Logon">
+				<summary>Logs a user on to a Crystal Enterprise session.</summary>
+				<exception cref="T:CrystalDecisions.Enterprise.ExceptionEventArgs">Thrown if an error occurs in the COM SDK.</exception>
+				<returns>true, if successfully logged on to Crystal Enterprise, otherwise, false.</returns>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.Logon(System.String,System.String)">
+            <doc for="Identity.Logon1">
+				<summary>Logs a user on to a Crystal Enterprise session.</summary>
+				<param name="name">The user name assigned to the Crystal Enterprise user logging on.</param>
+				<param name="password">The password assigned to the Crystal Enterprise user logging on.</param>
+				<exception cref="T:CrystalDecisions.Enterprise.ExceptionEventArgs">Thrown if an error occurs in the COM SDK.</exception>
+				<returns>true, if successfully logged on to Crystal Enterprise, otherwise, false.</returns>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.Logon(System.String,System.String,System.String)">
+            <doc for="Identity.Logon2">
+				<summary>Logs a user on to a Crystal Enterprise session.</summary>
+				<param name="name">The user name assigned to the Crystal Enterprise user logging on.</param>
+				<param name="password">The password assigned to the Crystal Enterprise user logging on.</param>
+				<param name="system">The name of the Crystal Enterprise system the user is logging onto.</param>
+				<exception cref="T:CrystalDecisions.Enterprise.ExceptionEventArgs">Thrown if an error occurs in the COM SDK.</exception>
+				<returns>true, if successfully logged on to Crystal Enterprise, otherwise, false.</returns>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.Logon(System.String,System.String,System.String,System.String)">
+            <doc for="Identity.Logon3">
+				<summary>Logs a user on to a Crystal Enterprise session.</summary>
+				<param name="name">The user name assigned to the Crystal Enterprise user logging on.</param>
+				<param name="password">The password assigned to the Crystal Enterprise user logging on.</param>
+				<param name="system">The name of the Crystal Enterprise system the user is logging on to.</param>
+				<param name="authentication">The type of alias used to log on to Crystal Enterprise. Can be a native alias such as Enterprise, or a third-party alias such as NT or LDAP.</param>
+				<exception cref="T:CrystalDecisions.Enterprise.ExceptionEventArgs">Thrown if an error occurs in the COM SDK.</exception>
+				<returns>true, if successfully logged on to Crystal Enterprise, otherwise, false.</returns>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Identity.Logoff">
+            <doc for="Identity.Logoff">
+				<summary>Logs a user off of a Crystal Enterprise session.</summary>
+			</doc>
+        </member>
+        <member name="E:CrystalDecisions.Enterprise.Identity.LoggingOn">
+            <doc for="Identity.LoggingOn">
+				<summary>Occurs immediately before a user logs on a Crystal Enterprise session.</summary>
+			</doc>
+        </member>
+        <member name="E:CrystalDecisions.Enterprise.Identity.LoggedOn">
+            <doc for="Identity.LoggedOn">
+				<summary>Occurs when a user logs on a Crystal Enterprise session.</summary>
+			</doc>
+        </member>
+        <member name="E:CrystalDecisions.Enterprise.Identity.LoggingOff">
+            <doc for="Identity.LoggingOff">
+				<summary>Occurs immediately before a user logs off a Crystal Enterprise session.</summary>
+			</doc>
+        </member>
+        <member name="E:CrystalDecisions.Enterprise.Identity.LoggedOff">
+            <doc for="Identity.LoggedOff">
+				<summary>Occurs when a user logs off a Crystal Enterprise session.</summary>
+			</doc>
+        </member>
+        <member name="E:CrystalDecisions.Enterprise.Identity.LogonFailed">
+            <doc for="Identity.LogonFailed">
+				<summary>Occurs when an attempted logon fails.</summary>
+			</doc>
+        </member>
+        <member name="E:CrystalDecisions.Enterprise.Identity.PasswordExpired">
+            <doc for="Identity.PasswordExpired">
+				<summary>Occurs when a user's password expires and must be changed.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.IdentityState">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.EnableAutoLogon">
+            <doc for="Identity.EnableAutoLogon">
+				<summary>Gets or sets a value indicating whether or not the Identity component automatically logs on to Crystal Enterprise.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.TokenExpiry">
+            <doc for="Identity.TokenExpiry">
+				<summary>Gets or sets the number of minutes the logon token is valid before expiring.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.System">
+            <doc for="Identity.System">
+				<summary>Gets or sets the name of the system to log onto.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.UserName">
+            <doc for="Identity.UserName">
+				<summary>Gets or sets the name of the user to be used when logging on.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.Password">
+            <doc for="Identity.Password">
+				<summary>Gets or sets the password to be used when logging on.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.SelectedAuthentication">
+            <doc for="Identity.SelectedAuthentication">
+				<summary>Gets or sets the authentication type to be used when logging on.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.EnterpriseSession">
+            <doc for="Identity.EnterpriseSession">
+				<summary>Gets the Enterprise session data representing a user that has logged in to Crystal Enterprise.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.InfoStore">
+            <doc for="Identity.InfoStore">
+				<summary>Gets the InfoStore object for the logged on user.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.IsLoggedOn">
+            <doc for="Identity.IsLoggedOn">
+				<summary>Gets the logon status of the current user.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.IsLoggedOnAuto">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.Identity.UserCanSeeUserFolders">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.Utilities">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities.TRACE_CATEGORY_FORMAT">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities.DEFAULT_IMAGE_PATH_URL">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities.ID_FOLDER_USER_FOLDERS">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities.ID_FOLDER_REAL_ROOT">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities.ID_FOLDER_LOGICAL_ROOT">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities._queryTraceSwitch">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.Utilities._queryTraceCategory">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.Trim(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.Trim(System.Object)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.TrimToNull(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.TrimToNull(System.Object)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.ConvertEmptyToSpace(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.getWebImageURL(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.Utilities.getImageResource(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.LocalizedDefaultStringValueAttribute">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.LocalizedDefaultStringValueAttribute.#ctor">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.LocalizedDefaultStringValueAttribute.#ctor(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.LocalizedDefaultStringValueAttribute.Value">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.LocalizedDescriptionAttribute">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.LocalizedDescriptionAttribute.#ctor">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.LocalizedDescriptionAttribute.#ctor(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.LocalizedDescriptionAttribute.TypeId">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.LocalizedCategoryAttribute">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.LocalizedCategoryAttribute.#ctor(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.LocalizedCategoryAttribute.GetLocalizedString(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.LocalizedCategoryAttribute.TypeId">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.IdentityState">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.IdentityState.#ctor">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.IdentityState.ToString">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.IdentityState.Reset">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.IdentityState.EnterpriseSession">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.IdentityState.InfoStore">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.ExceptionEventArgs">
+            <doc for="ExceptionEventArgs">
+				<summary>Provides an Exception object for the event that is raised when an exception is thrown. Provides data for the LogonFailed event of the Identity class.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.ExceptionEventArgs.#ctor(System.Exception)">
+            <doc for="ExceptionEventArgs.ExceptionEventArgs">
+				<summary>Initializes a new instance of the ExceptionEventArgs class.</summary>
+				<param name="exception">The Exception.</param>
+			</doc>
+        </member>
+        <member name="P:CrystalDecisions.Enterprise.ExceptionEventArgs.Exception">
+            <doc for="ExceptionEventArgs.Exception">
+				<summary>Gets the exception that was thrown.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.ExceptionErrorEventHandler">
+            <doc for="ExceptionErrorEventHandler">
+				<summary>Represents the method that handles the event triggered by an exception.</summary>
+			</doc>
+        </member>
+        <member name="T:CrystalDecisions.Enterprise.ResourceManager">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="F:CrystalDecisions.Enterprise.ResourceManager.IsCultureInfoSet">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.ResourceManager.SetThreadCultureInfo">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+        <member name="M:CrystalDecisions.Enterprise.ResourceManager.GetString(System.String)">
+            <doc for="ForInternalUseOnly">
+				<summary>For internal use only.</summary>
+			</doc>
+        </member>
+    </members>
+</doc>

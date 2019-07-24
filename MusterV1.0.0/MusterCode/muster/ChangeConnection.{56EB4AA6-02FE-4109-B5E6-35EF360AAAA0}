@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UIServices", "UIServices\UIServices.vbproj", "{A228D60E-3C06-4224-86AC-78E7C0887056}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MusterUpdater", "MusterUpdater\MusterUpdater.vbproj", "{1BCE1FCE-8CDC-406B-AD76-CABA2A53FAC1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMuster", "SetupMuster\SetupMuster.vdproj", "{06C490F4-3851-4A58-AD7A-C7751D439E40}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {426AF527-5FA4-46FE-BA16-DD07B36C399C}
+		SccProjectUniqueName1 = UIServices\\UIServices.vbproj
+		SccProjectName1 = \u0022$/DEQ/Current_Solution/UIServices\u0022,\u0020JOUAAAAA
+		SccLocalPath1 = UIServices
+		CanCheckoutShared = false
+		SccProjectUniqueName2 = MusterUpdater\\MusterUpdater.vbproj
+		SccProjectName2 = \u0022$/UST/Solution_Muster.root/Current_Solution/MusterUpdater\u0022,\u0020OPUAAAAA
+		SccLocalPath2 = MusterUpdater
+		CanCheckoutShared = false
+		SccProjectUniqueName3 = SetupMuster\\SetupMuster.vdproj
+		SccProjectName3 = \u0022$/DEQ/Current_Solution/SetupMuster\u0022,\u0020EQUAAAAA
+		SccLocalPath3 = SetupMuster
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Debug.ActiveCfg = Debug|.NET
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Debug.Build.0 = Debug|.NET
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Release.ActiveCfg = Release|.NET
+		{A228D60E-3C06-4224-86AC-78E7C0887056}.Release.Build.0 = Release|.NET
+		{1BCE1FCE-8CDC-406B-AD76-CABA2A53FAC1}.Debug.ActiveCfg = Debug|.NET
+		{1BCE1FCE-8CDC-406B-AD76-CABA2A53FAC1}.Release.ActiveCfg = Release|.NET
+		{06C490F4-3851-4A58-AD7A-C7751D439E40}.Debug.ActiveCfg = Debug
+		{06C490F4-3851-4A58-AD7A-C7751D439E40}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

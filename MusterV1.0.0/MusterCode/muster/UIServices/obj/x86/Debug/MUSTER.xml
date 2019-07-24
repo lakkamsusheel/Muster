@@ -1,0 +1,535 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MUSTER
+</name>
+</assembly>
+<members>
+<member name="F:MUSTER.Financial.strFacilityIdTags">
+ 1.1        Thomas Franey  added Activity Type 50 to condition on line  6029
+
+</member><member name="M:MUSTER.MusterContainer.ActivatedToAttachChildToSortInstance(System.Object,System.EventArgs)">
+ Attaches the Sort methods to any child that is open in order to have all sort memory in all grids
+
+</member><member name="T:MUSTER.Exif.TagNames">
+	<summary>
+ Contains possible values of EXIF tag names (ID)
+ </summary>
+	<remarks>See GdiPlusImaging.h</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.Orientations">
+	<summary>
+ Real position of 0th row and column of picture
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.ExposurePrograms">
+	<summary>
+ Exposure programs
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.ExposureMeteringModes">
+	<summary>
+ Exposure metering modes
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.FlashModes">
+	<summary>
+ Flash activity modes
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.LightSources">
+	<summary>
+ Possible light sources (white balance)
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.ExifDataTypes">
+	<summary>
+ EXIF data types
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 12.6.2004 Created
+ </history>
+</member><member name="M:MUSTER.Exif.Rational.ToString(System.String)">
+	<summary>
+ Converts rational to string representation
+ </summary>
+	<param name="Delimiter">Optional, default "/". String to be used as delimiter of components.</param>
+	<returns>String representation of the rational.</returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="M:MUSTER.Exif.Rational.ToDouble">
+	<summary>
+ Converts rational to double precision real number
+ </summary>
+	<returns>The rational as double precision real number.</returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif.Rational">
+	<summary>
+ Represents rational which is type of some Exif properties
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="M:MUSTER.Exif.#ctor(System.Drawing.Bitmap@)">
+	<summary>
+ Initializes new instance of this class.
+ </summary>
+	<param name="Bitmap">Bitmap to read exif information from</param>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="M:MUSTER.Exif.#ctor(System.String)">
+	<summary>
+ Initializes new instance of this class.
+ </summary>
+	<param name="FileName">Name of file to be loaded</param>
+	<remarks></remarks>
+	<history>
+ [altair] 13.06.2004 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Encoding">
+	<summary>
+ Get or set encoding used for string metadata
+ </summary>
+	<value>Encoding used for string metadata</value>
+	<remarks>Default encoding is UTF-8</remarks>
+	<history>
+ [altair] 11.07.2004 Created
+ [altair] 05.09.2005 Changed from shared to instance member
+ </history>
+</member><member name="M:MUSTER.Exif.GetBitmap">
+	<summary>
+ Returns copy of bitmap this instance is working on
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+	<history>
+ [altair] 13.06.2004 Created
+ </history>
+</member><member name="M:MUSTER.Exif.ToString">
+	<summary>
+ Returns all available data in formatted string form
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.EquipmentMaker">
+	<summary>
+ Brand of equipment (EXIF EquipMake)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.EquipmentModel">
+	<summary>
+ Model of equipment (EXIF EquipModel)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Software">
+	<summary>
+ Software used for processing (EXIF Software)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Orientation">
+	<summary>
+ Orientation of image (position of row 0, column 0) (EXIF Orientation)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.DateTimeLastModified">
+	<summary>
+ Time when image was last modified (EXIF DateTime).
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.DateTimeOriginal">
+	<summary>
+ Time when image was taken (EXIF DateTimeOriginal).
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.DateTimeDigitized">
+	<summary>
+ Time when image was digitized (EXIF DateTimeDigitized).
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Width">
+	<summary>
+ Image width
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 04.09.2005 Changed output to Int32, load from image instead of EXIF
+ </history>
+</member><member name="P:MUSTER.Exif.Height">
+	<summary>
+ Image height
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 04.09.2005 Changed output to Int32, load from image instead of EXIF
+ </history>
+</member><member name="P:MUSTER.Exif.ResolutionX">
+	<summary>
+ X resolution in dpi (EXIF XResolution/ResolutionUnit)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.ResolutionY">
+	<summary>
+ Y resolution in dpi (EXIF YResolution/ResolutionUnit)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Title">
+	<summary>
+ Image title (EXIF ImageTitle)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.UserComment">
+	<summary>
+ User comment (EXIF UserComment)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 13.06.2004 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Artist">
+	<summary>
+ Artist name (EXIF Artist)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 13.06.2004 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Description">
+	<summary>
+ Image description (EXIF ImageDescription)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Copyright">
+	<summary>
+ Image copyright (EXIF Copyright)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.ExposureTime">
+	<summary>
+ Exposure time in seconds (EXIF ExifExposureTime/ExifShutterSpeed)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.Aperture">
+	<summary>
+ Aperture value as F number (EXIF ExifFNumber/ExifApertureValue)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.ExposureProgram">
+	<summary>
+ Exposure program used (EXIF ExifExposureProg)
+ </summary>
+	<value></value>
+	<remarks>If not specified, returns Normal (2)</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.ISO">
+	<summary>
+ ISO sensitivity
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.SubjectDistance">
+	<summary>
+ Subject distance in meters (EXIF SubjectDistance)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.ExposureMeteringMode">
+	<summary>
+ Exposure method metering mode used (EXIF MeteringMode)
+ </summary>
+	<value></value>
+	<remarks>If not specified, returns Unknown (0)</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.FocalLength">
+	<summary>
+ Focal length of lenses in mm (EXIF FocalLength)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.FlashMode">
+	<summary>
+ Flash mode (EXIF Flash)
+ </summary>
+	<value></value>
+	<remarks>If not present, value NotFired (0) is returned</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="P:MUSTER.Exif.LightSource">
+	<summary>
+ Light source / white balance (EXIF LightSource)
+ </summary>
+	<value></value>
+	<remarks>If not specified, returns Unknown (0).</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="M:MUSTER.Exif.GetPropertyString(System.Int32,System.String)">
+	<summary>
+ Gets specified string property
+ </summary>
+	<param name="PID">Property ID</param>
+	<param name="DefaultValue">Optional, default String.Empty. Default value returned if property is not present.</param>
+	<returns></returns>
+	<remarks>Value of property or DefaultValue if property is not present.</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="M:MUSTER.Exif.GetProperty(System.Int32,System.Byte[])">
+	<summary>
+ Gets specified property in raw form
+ </summary>
+	<param name="PID">Property ID</param>
+	<param name="DefaultValue">Optional, default Nothing. Default value returned if property is not present.</param>
+	<returns></returns>
+	<remarks>Is recommended to use typed methods (like <see cref="M:MUSTER.Exif.GetPropertyString(System.Int32,System.String)"/> etc.) instead, when possible.</remarks>
+	<history>
+ [altair] 05.09.2005 Created
+ </history>
+</member><member name="M:MUSTER.Exif.GetPropertyRational(System.Int32)">
+	<summary>
+ Gets specified rational property
+ </summary>
+	<param name="PID">Property ID</param>
+	<returns></returns>
+	<remarks>Value of property or 0/1 if not present.</remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="M:MUSTER.Exif.SetPropertyString(System.Int32,System.String)">
+	<summary>
+ Sets specified string property
+ </summary>
+	<param name="PID">Property ID</param>
+	<param name="Value">Value to be set</param>
+	<remarks></remarks>
+	<history>
+ [altair] 12.6.2004 Created
+ </history>
+</member><member name="M:MUSTER.Exif.SetPropertyInt16(System.Int32,System.Int16)">
+	<summary>
+ Sets specified Int16 property
+ </summary>
+	<param name="PID">Property ID</param>
+	<param name="Value">Value to be set</param>
+	<remarks></remarks>
+	<history>
+ [altair] 12.6.2004 Created
+ </history>
+</member><member name="M:MUSTER.Exif.SetPropertyInt32(System.Int32,System.Int32)">
+	<summary>
+ Sets specified Int32 property
+ </summary>
+	<param name="PID">Property ID</param>
+	<param name="Value">Value to be set</param>
+	<remarks></remarks>
+	<history>
+ [altair] 13.06.2004 Created
+ </history>
+</member><member name="M:MUSTER.Exif.SetProperty(System.Int32,System.Byte[],MUSTER.Exif.ExifDataTypes)">
+	<summary>
+ Sets specified propery in raw form
+ </summary>
+	<param name="PID">Property ID</param>
+	<param name="Data">Raw data</param>
+	<param name="Type">EXIF data type</param>
+	<remarks>Is recommended to use typed methods (like <see cref="M:MUSTER.Exif.SetPropertyString(System.Int32,System.String)"/> etc.) instead, when possible.</remarks>
+	<history>
+ [altair] 12.6.2004 Created
+ </history>
+</member><member name="M:MUSTER.Exif.GetInt32(System.Byte[])">
+	<summary>
+ Reads Int32 from EXIF bytearray.
+ </summary>
+	<param name="B">EXIF bytearray to process</param>
+	<returns></returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 05.09.2005 Changed from public shared to private instance method
+ </history>
+</member><member name="M:MUSTER.Exif.GetInt16(System.Byte[])">
+	<summary>
+ Reads Int16 from EXIF bytearray.
+ </summary>
+	<param name="B">EXIF bytearray to process</param>
+	<returns></returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 05.09.2005 Changed from public shared to private instance method
+ </history>
+</member><member name="M:MUSTER.Exif.GetString(System.Byte[])">
+	<summary>
+ Reads string from EXIF bytearray.
+ </summary>
+	<param name="B">EXIF bytearray to process</param>
+	<returns></returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 05.09.2005 Changed from public shared to private instance method
+ </history>
+</member><member name="M:MUSTER.Exif.GetRational(System.Byte[])">
+	<summary>
+ Reads rational from EXIF bytearray.
+ </summary>
+	<param name="B">EXIF bytearray to process</param>
+	<returns></returns>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 05.09.2005 Changed from public shared to private instance method
+ </history>
+</member><member name="M:MUSTER.Exif.Dispose">
+	<summary>
+ Disposes unmanaged resources of this class
+ </summary>
+	<remarks></remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ </history>
+</member><member name="T:MUSTER.Exif">
+	<summary>
+ Utility class for working with EXIF data in images. Provides abstraction
+ for most common data and generic utilities for work with all other. 
+ </summary>
+	<remarks>
+ Copyright (c) Michal A. Valášek - Altair Communications, 2003-2005
+ Copmany: http://software.altaircom.net, E-mail: support@altaircom.net
+ Private: http://www.rider.cz, E-mail: rider@rider.cz
+ This is free software licensed under GNU Lesser General Public License
+ </remarks>
+	<history>
+ [altair] 10.09.2003 Created
+ [altair] 12.06.2004 Added capability to write EXIF data
+ [altair] 11.07.2004 Added option to change encoding
+ [altair] 04.09.2005 Changed source of Width and Height properties from EXIF to image
+ [altair] 05.09.2005 Code clean-up and minor changes
+ </history>
+</member><member name="M:MUSTER.UIUtilsGen.IExtractImage.GetLocation(System.Text.StringBuilder,System.Int32,System.Int32@,MUSTER.UIUtilsGen.SIZE@,System.Int32,System.Int32@)">
+	<summary>
+ Gets a path to the image that is to be extracted.
+ </summary>
+	<returns>This method may return a COM-defined error code or one of the following: S_OK if successful, or E_PENDING.</returns>
+</member><member name="M:MUSTER.UIUtilsGen.IExtractImage.Extract(System.IntPtr@)">
+	<summary>
+ Requests an image from an object, such as an item in a Shell folder.
+ </summary>
+	<returns>Returns S_OK if successful, or a COM-defined error code otherwise.</returns>
+</member><member name="T:MUSTER.UIUtilsGen.IExtractImage">
+	<summary>
+ Exposes methods that request a thumbnail image from a Shell folder.
+ </summary>
+</member><member name="M:MUSTER.UIUtilsGen.GetFilesRecursive(System.String,System.String)">
+	<summary>
+ This method starts at the specified directory, and traverses all subdirectories.
+ It returns a List of those directories.
+ </summary>
+</member>
+</members>
+</doc>

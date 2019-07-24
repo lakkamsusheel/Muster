@@ -1,0 +1,1270 @@
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 7.12.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\Users\yaga\Desktop\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\WorkingFolder\MusterV1.0.0 07.01.2015(old)\MusterV1.0.0 07.01.2015\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\Users\yaga.deq\Desktop\new muster july 12\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.manifest
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.application
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.manifest
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.application
+C:\WorkingFolder\MusterV1.0.1\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.manifest
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.manifest
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.application
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\Infragistics4.Shared.v13.2.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\bin\Infragistics4.Win.UltraWinDataSource.v13.2.xml
+C:\WorkingFolder\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.application
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.config
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe.manifest
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.application
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.exe
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Audit.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.CachePageServer.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Cms.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.EventServer.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.FileServer.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.JobServer.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.ReportAppServer.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Admin.Wcs.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secEnterprise.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secLDAP.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWinAD.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Auth.secWindowsNT.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Calendar.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.Desktop.Connection.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.Enterprise.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\CrystalDecisions.KeyCode.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\ICSharpCode.SharpZipLib.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\Microsoft.mshtml.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Exception.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.Info.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.BusinessLogic.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.pdb
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\MUSTER.DataAccess.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\Infragistics4.Shared.v13.2.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\bin\Infragistics4.Win.UltraWinDataSource.v13.2.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbprojResolveAssemblyReference.cache
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSComDlg.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.MSMask.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\Interop.SHDocVw.dll
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.ResolveComReference.cache
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ChangePassword.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CodeTableManager.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamMaint.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FilePathAdmin.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GroupAdmin.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageContactTypes.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageReports.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ModuleEntityRights.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ManageProfileData.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserAdmin.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserLogin.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAELicensees.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandE.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEAssignedInspection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEManagement.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CandEStatusSelection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CitationList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EnforcementHistory.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacilityComplianceEvent.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspectors.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeComplianceEvent.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RedTagProhibitionChangeManager.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.UserDate.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.WorkShopDate.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Closure.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Addresses.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddressMaster.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Company.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearch.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanySearchResults.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Courses.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseeManagement.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Licensees.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LicenseesList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Managers.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Providers.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CompanyContactSearch.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactReconciliation.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Contacts.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ContactSearch.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowContacts.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdministrativeServices.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Fees.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FiscalYearFeeBasis.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateCreditMemo.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateDebitMemo.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.GenerateRefund.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.LateFeeWaiverRequest.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OverpaymentReason.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReallocateOwnerOverage.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddModifyActivity.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Adjustment.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Commitment.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CostFormat.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Financial.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FinTextAdmin.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.IncompleteApplication.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Invoice.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InvoiceRequestAdmin.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Rollovers.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddComments.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowComments.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddFlags.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ShowFlags.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AssignedInspection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CCAT.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CheckListProgress.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FacPicFileUpload.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FileRemovalButton.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.InspectionHistory.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Inspection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RescheduleInspection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentViewControl.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Letters.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Calendar.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ErrorReport.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Logon.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterAbout.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.MusterContainer.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ProgressScreen.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AddAvailablePipes.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CapEntry.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPPreMonthly.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CAPSignUp.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CMList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DetachPipes.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocsPhotos.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.EditCompartments.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ParentPipeSelection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Registration.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SelectCompartment.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SetUpOwner.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferOwnership.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CrystalReportsParamForm.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ReportDisplay.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvancedSearch.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.AdvanceSearchSummary.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.FavSearchDialog.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSearchResults.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Activity.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Document.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.DocumentList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystem.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.RemediationSystemList.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Technical.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TransferEvent.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.ActivityPlanning.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Address.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.BaseModuleScreen.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.CertifiedMail.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.Mapdisplay.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.NewTicklerMessageScreen.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.OwnerSummary.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pictureViewer.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.SalutationSelection.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TicklerAlert.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.TickerScreen.resources
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\UIServices.vbproj.GenerateResource.Cache
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.licenses
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe.manifest
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.application
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.exe
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.xml
+C:\WorkingFolder\Backup\working copy without errors 20190420\MusterV1.0.0\MusterCode\muster\UIServices\obj\Debug\MUSTER.pdb
